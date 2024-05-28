@@ -395,6 +395,11 @@ h2 {
         margin-bottom: 20px;
     }
 
+    .testimonial-img {
+        width: 250px;
+        height: 250px;
+    }
+    }
     .section h1 {
         font-size: 36px;
     }
